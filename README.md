@@ -8,7 +8,7 @@ This repository contains Python code to detect anomalies in server performance d
 - **Server Monitoring**: Monitors the server performance and detects periods of light load, high load, and unresponsive states.
 - **Visualization**: Plots the normal range, anomalies, and unresponsive periods for easy analysis.
 
-![Alt text](URL_TO_YOUR_IMAGE)
+![OUTPUT](output.png)
 
 
 
